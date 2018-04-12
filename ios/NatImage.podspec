@@ -132,7 +132,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  s.dependency "TZImagePickerController", "~> 1.8.3"
+  s.dependency "TZImagePickerController", "~> 2.0.1"
   s.dependency 'MBProgressHUD', '~> 1.0.0'
   s.dependency 'DACircularProgress', '~> 2.3'
   s.dependency 'SDWebImage', '~> 3.7.5'
